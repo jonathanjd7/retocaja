@@ -1,0 +1,46 @@
+body {
+    margin: 20px;
+    padding: 0px;
+    background-color: rgb(255, 72, 0);
+
+}
+header {
+    font-family:Arial, Helvetica, sans-serif ;
+    background-color: rgb(255, 72, 0);
+    border: 0px;
+    text-align: center;
+    padding:20px 0;
+}
+
+h1 {color: white;
+    border-bottom: 4px solid white; /*Para poner la barra abajo del texto*/
+    padding-bottom: 5px;
+    width:fit-content; /*para que la barra se ajuste al texto*/
+    margin: auto;
+}
+h2 {
+    color: orange;
+}
+div.contenido {
+    padding: 15px;
+    margin: 20px;
+    border: 10px;
+    background-color:gainsboro;
+
+}
+div.fondo {
+    background-color: aliceblue;
+    padding: 5px;
+
+}
+img {
+    width: 250px;
+    height: 150px;
+}
+a {
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    color: white;
+}
